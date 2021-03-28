@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">BA Admin</string>
+
+    <string-array name="hospital">
+        <item>Select Hospital</item>
+        <item>Square Hospital,Dhaka</item>
+        <item>Apollo Hospital,Dhaka</item>
+        <item>Labaid Hospital,Dhaka</item>
+        <item>Ibn Sina Hospital,Dhaka</item>
+        <item>Popular Hospital,Dhaka</item>
+        <item>Birdem Hospital,Shahbag</item>
+        <item>BSMMU Hospital,Dhaka</item>
+        <item>Bangladesh Eye Hospital,Dhaka</item>
+        <item>Bashundhara Hospital,Manikganj</item>
+        <item>CMH Hospital,Dhaka Cantonment</item>
+        <item>Ad-din Sakina Hospital,Jessore</item>
+        <item>Ad-din Akij Hospital,Khulna</item>
+        <item>Al Haramain Hospital,Sylhet</item>
+        <item>Bangabandhu Memorial Hospital,Chittagong</item>
+        <item>Catharsis Medical Centre,Gazipur</item>
+    </string-array>
+
+    <string-array name="speciality">
+        <item>Speciality</item>
+        <item>Cardiac</item>
+        <item>CDC</item>
+        <item>Clinical Haematology</item>
+        <item>Clinical Psychology</item>
+        <item>Dental</item>
+        <item>ENT</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>Select Time</item>
+        <item>09.00-10.00 AM</item>
+        <item>10.00-11.00 AM</item>
+        <item>11.00-12.00 AM</item>
+        <item>02.00-03.00 PM</item>
+        <item>03.00-04.00 PM</item>
+        <item>04.00-05.00 PM</item>
+    </string-array>
+
+    <string-array name="lib">
+        <item>Select Library</item>
+        <item>Sufia Kamal Library,Dhaka</item>
+        <item>Central Library,Gazipur</item>
+        <item>Central Library,Sylhet</item>
+        <item>Anirban Library,Khulna</item>
+        <item>Manirampur Library,Jessore</item>
+        <item>Chittagong University Library,Chittagong</item>
+    </string-array>
+
+    <string-array name="mTime">
+        <item>Select Time</item>
+        <item>09.00-11.00 AM</item>
+        <item>11.30 AM - 01.30 PM</item>
+        <item>02.00-04.00 PM</item>
+        <item>04.30-06.30 PM</item>
+        <item>07.00-09.00 PM</item>
+        <item>09.30-11.30 PM</item>
+    </string-array>
+
+    <string-array name="mov">
+        <item>Select Show</item>
+        <item>Alatchakra</item>
+        <item>Godzilla vs. Kong</item>
+        <item>Raya and the Last Dragon</item>
+        <item>Venom</item>
+        <item>Priyo Komla</item>
+        <item>The Conjuring</item>
+    </string-array>
+
+    <string-array name="theater">
+        <item>Select Theater</item>
+        <item>Star Cineplex,Bashundhara</item>
+        <item>Jumur Chinema Hall,Gazipur</item>
+        <item>BGB Auditorium,Sylhet</item>
+        <item>Liberty Cineplex,Khulna</item>
+        <item>Silver Screen,Chittagong</item>
+        <item>Monihar Movie Theater,Jessore</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Select Location</item>
+        <item>Dhaka</item>
+        <item>Gazipur</item>
+        <item>Sylhet</item>
+        <item>Khulna</item>
+        <item>Jessore</item>
+        <item>Chittagong</item>
+    </string-array>
+
+    <string-array name="barbar">
+        <item>Select Shop</item>
+        <item>Grooming Lounge,Uttara</item>
+        <item>Shop 2</item>
+        <item>Shop 3</item>
+        <item>Shop 4</item>
+        <item>Shop 5</item>
+        <item>Shop 6</item>
+    </string-array>
+
+    <string name="title_available">AVAILABLE</string>
+    <string name="title_booked">BOOKED</string>
+
+    <string name="title_activity_hp_home">MainActivity</string>
+
+</resources>
